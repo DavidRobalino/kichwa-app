@@ -1,0 +1,22 @@
+// Este código define un objeto Colors que contiene una serie de colores como propiedades,
+// representadas en formato hexadecimal. Estos colores son utilizados para estilizar la interfaz de usuario,
+//  con variaciones de tonos para cada color (como claro, oscuro o de acento).
+export const Colors = {
+  primary: '#2048FE',
+  primaryLight: '#BEDCFF',
+  primaryDark: '#21378E',
+  grayLight: '#F0F0F0',
+  gray: '#c3c3c3',
+  grayDark: '#818181',
+  greenLight: '#CDFFC6',
+  green: '#09DE05',
+  greenDark: '#0B690D',
+  redLight: '#FFC0C0',
+  red: '#FF0C0C',
+  redDark: '#920A0A',
+  accent: '#7601F4',
+  black: '#333333',
+  blackTitle: '#2A2A2A',
+  white: '#ffffff',
+  whiteLight: '#fafafa',
+};
